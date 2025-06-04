@@ -2,8 +2,9 @@
 
 ## Fr33thy Optimisation
 
-> "Tried and tested and highly recommended"
-> - Picc
+> " Tried and tested and highly recommended!... "
+- Picc
+
 
 Important: File downloads are now located on [fr33thytweaks' github](https://github.com/fr33thytweaks)
 
