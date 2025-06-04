@@ -6,8 +6,10 @@ nav:
   - 'Optimal Game Settings': 'optimal_game_settings.md'
   - 'Nvidia Graphics Filters': 'nvidia_graphics_filters.md'
   - 'Test Page': 'test_page.md'
+  - 'Optimised PC settings': 'optimised_pc_settings.md'
 markdown_extensions:
   - attr_list
   - pymdownx.superfences
+  - pymdownx.details
 plugins:
   - glightbox
