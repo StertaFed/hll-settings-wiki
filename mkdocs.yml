@@ -1,0 +1,13 @@
+site_name: Hell Let Loose Settings Wiki
+theme:
+  name: material
+nav:
+  - 'Home': 'index.md'
+  - 'Optimal Game Settings': 'optimal_game_settings.md'
+  - 'Nvidia Graphics Filters': 'nvidia_graphics_filters.md'
+  - 'Test Page': 'test_page.md'
+markdown_extensions:
+  - attr_list
+  - pymdownx.superfences
+plugins:
+  - glightbox

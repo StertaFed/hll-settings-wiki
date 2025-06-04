@@ -1,0 +1,7 @@
+site/
+__pycache__/
+*.py[cod]
+*.egg-info
+# If you create a Python virtual environment in this folder later:
+# venv/
+# .venv/
