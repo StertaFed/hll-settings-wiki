@@ -7,10 +7,10 @@
 - Add information for pages
 - Continue with nav bar
 - Info to merge:
-  - Optimised PC Settings
-  - Windows Basic Settings
+  - Optimised PC Settings :white_check_mark:
+  - Windows Basic Settings :white_check_mark:
   - Hell Let Loose Settings
-  - In-Game Filters
+  - In-Game Filters :white_check_mark:
   - Nvidia
   - AMD
   - ExitLag
