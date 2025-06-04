@@ -1,4 +1,6 @@
-# To Do:
+#Website here: https://stertafed.github.io/hll-settings-wiki/
+
+## To Do:
 ### Content:
 #### Build out content via git to allow for ease of editing
 - Move comp settings to site
