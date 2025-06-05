@@ -1,4 +1,6 @@
 site_name: Hell Let Loose Settings Wiki
+site_url: https://StertaFed.github.io/hll-settings-wiki/
+
 theme:
   name: material
 nav:
