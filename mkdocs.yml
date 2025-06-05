@@ -3,10 +3,13 @@ theme:
   name: material
 nav:
   - 'Home': 'index.md'
-  - 'Optimal Game Settings': 'optimal_game_settings.md'
-  - 'Nvidia Graphics Filters': 'nvidia_graphics_filters.md'
   - 'Windows Basics': 'windows_basics.md'
   - 'Optimised PC settings': 'optimised_pc_settings.md'
+  - 'Nvidia Graphics Filters': 'nvidia_graphics_filters.md'
+  - 'AMD Graphics Filters': 'amd_graphics_filters.md'
+  - 'DWM LUT Alternative Filters': 'dwm_lut_alternative_filters.md'
+  - 'Optimal Game Settings': 'optimal_game_settings.md'
+
 markdown_extensions:
   - attr_list
   - pymdownx.superfences
@@ -21,5 +24,6 @@ markdown_extensions:
   - pymdownx.tilde
 plugins:
   - glightbox
+  - mkdocs-video
 extra_css:
   - stylesheets/extra.css
