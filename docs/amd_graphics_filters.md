@@ -10,8 +10,8 @@ Using Digital Vibrance (NVIDIA) or Saturation (AMD) in your graphic card driver 
 
 ### Video Guide:
 
-<video width="100%" controls poster="/videos/How_to_setup_Vibrance_GUI.png">  <!-- Note the leading / -->
-  <source src="/videos/How_to_setup_Vibrance_GUI.mp4" type="video/mp4">       <!-- Note the leading / -->
+<video width="100%" controls poster="videos/How_to_setup_Vibrance_GUI.png">
+  <source src="videos/How_to_setup_Vibrance_GUI.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

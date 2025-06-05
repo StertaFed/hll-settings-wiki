@@ -24,7 +24,7 @@ Use these with filters or without, it is preference and just an option. Adjust t
 
 ### Video guide:
 
-<video width="100%" controls poster="/videos/nvidia_hll_wa_TN.png">  <!-- Note the leading / -->
-  <source src="/videos/nvidia_hll_wa.mp4" type="video/mp4">       <!-- Note the leading / -->
+<video width="100%" controls poster="videos/nvidia_hll_wa_TN.png">
+  <source src="videos/nvidia_hll_wa.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
