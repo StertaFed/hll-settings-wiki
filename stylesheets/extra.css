@@ -1,11 +1,52 @@
-/* assets/css/extra.css */
+/*
+ * FINAL and COMPLETE Override for KPN Theme
+ * This targets all specific element classes identified from the inspector.
+ */
 
-@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Tangerine&display=swap');
-
-blockquote {
-  font-family: "Tangerine", cursive;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 1.8rem;
+/* 1. Main Header Bar Background */
+.title-bar {
+  background-color: #d32f2f !important; /* A strong red */
 }
 
+/* 2. Main Header Bar TEXT (Site Title) */
+.top-bar .title-bar__title {
+  color: white !important;
+}
+
+/* 3. Secondary Header Bar TEXT (Page Title, e.g., "Home") */
+.top-bar .top-bar__title {
+    color: white !important;
+}
+
+/* 4. Main Content Title (e.g., "Welcome to Comp Settings Wiki") */
+h1, .kpn-style h1:not([class]) {
+    color: #d32f2f !important;
+}
+
+/* 5. Active Link HIGHLIGHT in the Left Sidebar */
+.side-bar__link--active {
+    background-color: #d32f2f !important;
+    color: white !important; /* Makes the text white for better contrast */
+}
+
+/* 6. HOVER state for links in the Left Sidebar */
+/* This is the new rule for the hover effect */
+.side-bar__link:hover {
+    background-color: #b71c1c !important; /* A darker red for hover */
+    color: white !important;
+}
+
+
+/* --- Keep the other working rules --- */
+
+/* 7. Other Content Headings (h2, h3, etc.) just in case */
+.is-kpn-style .md-content h2,
+.is-kpn-style .md-content h3,
+.is-kpn-style .md-content h4 {
+    color: #d32f2f !important;
+}
+
+/* 8. Links in the right-side "Table of contents" on hover */
+.md-nav--secondary .md-nav__link:hover {
+  color: #d32f2f !important;
+}
