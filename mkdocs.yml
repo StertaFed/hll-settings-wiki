@@ -2,7 +2,7 @@ site_name: Hell Let Loose Settings Wiki
 site_url: https://StertaFed.github.io/hll-settings-wiki/
 
 theme:
-  name: material
+  name: kpn
 nav:
   - 'Home': 'index.md'
   - 'Windows Basics': 'windows_basics.md'
@@ -24,6 +24,7 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.emoji
 plugins:
   - glightbox
   - mkdocs-video
